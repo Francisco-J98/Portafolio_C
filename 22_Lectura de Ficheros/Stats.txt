@@ -1,0 +1,10 @@
+Estadisticas para Fire Emblem
+------------TIRADOR------------
+PV: 20		Max: 80
+ATA: 07		Max: 41
+MAG: 01		Max: 30
+HAB: 12		Max: 48
+VEL: 09		Max: 40
+SUE: 00		Max: 45
+DEF: 10		Max: 40
+RES: 03		Max: 31

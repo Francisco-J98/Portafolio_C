@@ -1,0 +1,33 @@
+
+-----QUINIELA AUTOMATICA-----
+2 	2 	X 	
+1 	2 	2 	
+1 	2 	2 	
+X 	1 	2 	
+1 	2 	2 	
+1 	X 	X 	
+X 	2 	X 	
+X 	X 	2 	
+2 	X 	1 	
+X 	2 	1 	
+1 	2 	2 	
+1 	X 	2 	
+1 	2 	2 	
+2 	X 	2 	
+Equipo 1: 2   	Equipo 2: M 
+-----QUINIELA AUTOMATICA-----
+X 	2 	X 	1 	
+2 	1 	2 	1 	
+1 	X 	X 	2 	
+2 	X 	1 	X 	
+2 	1 	1 	1 	
+2 	X 	X 	2 	
+X 	1 	X 	1 	
+2 	X 	1 	X 	
+X 	1 	X 	1 	
+2 	1 	2 	1 	
+X 	1 	X 	1 	
+X 	1 	1 	1 	
+2 	X 	1 	X 	
+1 	X 	2 	1 	
+Equipo 1: 0   	Equipo 2: M 

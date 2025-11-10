@@ -3,6 +3,7 @@
 #include <string.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
 unsigned longitud(char *p1)
 {
     unsigned char *a1 = p1;

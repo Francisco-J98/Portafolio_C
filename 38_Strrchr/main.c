@@ -10,7 +10,7 @@ char *localizarchar(char *p1, char car)
     
     do
 	{
-        if ( *p1 == car) 
+        if (*p1 == car) 
             aux = p1;    
     }while(*p1++);
     

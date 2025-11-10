@@ -40,8 +40,8 @@ int main(int argc, char *argv[])
 		else
 			printf("| %d |", Hora[i]);
 	}
-	
 	printf("\n");
+	
 	system("pause");
 	return 0;
 }

@@ -4,9 +4,9 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-char * concatenar(char * p1, char * p2, int n)
+char *concatenar(char *p1, char *p2, int n)
 {
-    char * aux = p1;
+    char *aux = p1;
     int L;
     
     p1 += strlen(p1);

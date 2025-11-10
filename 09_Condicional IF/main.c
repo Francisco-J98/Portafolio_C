@@ -22,6 +22,7 @@ int main(int argc, char *argv[])
 			printf("El mayor es %d", c);
 	
 	printf("\n");
+	
 	system("pause");
 	return 0;
 }

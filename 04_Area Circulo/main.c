@@ -9,6 +9,7 @@ int main()
 	printf("Introduce el radio de la circunferencia (cm): ");
 	scanf("%f", &radio);
 	printf("El area es %f cm^2 y el perimetro es %f cm\n", pi * radio * radio, 2 * pi *radio);
+	
 	system("pause");
 	return 0;
 }

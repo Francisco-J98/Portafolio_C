@@ -10,7 +10,7 @@ char *localizarcad(char *p1, char *p2)
     
     while (*p1)
 	{
-        if (!memcmp(p1 ++, p2, L)) 
+        if (!memcmp(p1++, p2, L)) 
             return(p1 - 1);
         
     }
